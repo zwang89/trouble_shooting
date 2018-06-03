@@ -1,1 +1,2 @@
 
+# this file document common issues that I met during learning R
