@@ -22,3 +22,4 @@ the correct code:
 sumlist_2 = [ mylist[i] + mylist[j] for i in range(0, len(mylist)) for j in range(0, len(mylist)) if i < j]
 print(sumlist_2)
 ```
+### 5. for dictionary, if you put the variable in for loop, the will change the type of the variable to list. 
